@@ -195,7 +195,7 @@
     "vscode": "1.1.37"
   },
   "dependencies": {
-    "@sanity/client": "2.1.0",
+    "@sanity/client": "2.23.2",
     "opencollective": "1.0.3"
   },
   "collective": {
